@@ -2,14 +2,14 @@
 Data cleaning and EDA on sales dataset
 
 
-STORE BACKGROUND
+**STORE BACKGROUND**
 
 The store wants to use its sales data to improve service, fix operational issues, and increase profits.
 
-PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 Without clear data on sales, profits, and operations, the store is making poor business decisions and missing out on growth opportunities.
 
-SOLUTION
+**SOLUTION**
 
 The store needs easy-to-read reports that provide clear insights into sales trends, customer habits, and how well products are performing.
